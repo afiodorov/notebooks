@@ -4742,5 +4742,21 @@
             "id_": 35745364
         },
         "summary": "Myrmornis created a LaTeX editing environment in Emacs for their own use, but a few other people have also found it useful."
+    },
+    {
+        "c": {
+            "comment": "https://mathb.in/I wrote this 11 years ago for my friends and myself who were going through a phase in our lives when we used to challenge each other with mathematical puzzles.The use of this tool spread from my friends to their friends and colleagues, then schools and universities, and then to IRC channels. Now it is the oldest mathematics pastebin that is still online and serving its community of users. Visit https://github.com/susam/mathb for the source code of this tool.",
+            "author": "susam",
+            "id_": 35738390
+        },
+        "summary": "Susam's Mathb tool has been used by a wide range of people over the years and is still active today."
+    },
+    {
+        "c": {
+            "comment": "I'm writing my own app for practicing the piano.\nThe goal is to make practicing fun, while also making steady progress.I'm not a good player at all, and I've struggled with practice for years. But I have no problems playing (practicing) difficult video games, that require a lot of repetition (think Celeste).I think I've identified two major reasons why I never enjoyed it:1. Classical music notation (sheet music) is just awful. It goes against most modern principles of easy-to-grasp information design. So I've come up with my own notation that is much easier to read and can be generated from musicxml files.2. Practicing takes too much decision making and discipline. If you want to make progress, you have to constantly remind yourself to practice the parts that you're not good at yet - this is a surprising amount of mental overhead and requires lots of discipline. So the app I wrote listens to you play via MIDI and keeps track of which segments of a piece you're already good at, and automatically gives you those you still need to practice more - zero decision making required. You just play whatever the app gives you and after a few weeks/months you're suddenly able to play the whole piece.The app is no where near ready to be shown, but I'm confident at this point that the concept will work.I've been planning a longer write up on this for a while, if you're interested in reading more about it, please let me know, that would be very motivating :)",
+            "author": "cloogshicer",
+            "id_": 35738725
+        },
+        "summary": "The author has created an app to make practicing the piano more enjoyable and efficient by introducing easier-to-grasp notation and automating the decision-making process."
     }
 ]
