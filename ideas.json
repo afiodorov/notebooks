@@ -4758,5 +4758,29 @@
             "id_": 35738725
         },
         "summary": "The author has created an app to make practicing the piano more enjoyable and efficient by introducing easier-to-grasp notation and automating the decision-making process."
+    },
+    {
+        "c": {
+            "comment": "Throwaway time!I built a custom smart motorized masturbator.It borrows from 3D printer design, and has a NEMA 17 stepper motor driving a 2GT belt loop around a short length of 2020 extrusion to slide a carriage along a linear rail. The carriage has attachment points that I've put clamps on, that close around a fleshlight-style sheath. There's a brace at the business end that you put around the base of the penis and it keeps everything aligned.All the parts are custom-designed and 3d printed.It has an outboard control box that contains:  - an ESP32-based microcontroller with a small OLED screen. \n  - a clickable rotary encoder that is the single input control\n  - a TMC2209 stepper driver\n  - 12v power input and a buck converter to feed the esp32\n  - 12v output ports for 2 additional vibrators and an an H-bridge module to control them\n\nThe simple UI allows full control over the motion:  - stroke duration\n  - stroke amplitude\n  - offset from the 0 position\n  - motion path (just sinusoidal vs triangle wave so far)\n\nThe controls also allow control over the secondary vibrators for intensity, rhythm, and duty cycle.It's been evolving for a couple years now and it works brilliantly!",
+            "author": "HornyDude",
+            "id_": 35745949
+        },
+        "summary": "HornyDude has built a custom smart motorized masturbator with 3D printer design, an ESP32-based microcontroller, a clickable rotary encoder, a TMC2209 stepper driver, and 12v power input, which has a UI that allows full control over the motion and secondary vibrators."
+    },
+    {
+        "c": {
+            "comment": "I made a website that helps me search for specific techno tracks across DJ sets.It helps me find DJs I vibe with the most",
+            "author": "rahulgoel",
+            "id_": 35775760
+        },
+        "summary": "Rahulgoel created a website to help them find techno tracks and DJs they enjoy."
+    },
+    {
+        "c": {
+            "comment": "I built a pretty simple command line application (glorified python script) years ago that sends messages into a specified matrix room, and intended for use as a basic server notification system. Only recently posted to github (because a friend asked me to share); see: https://github.com/mxuribe/howlerLike other sys admins and devs, I had used email notifications for years to notify me whenever *stuff happens* on a server (like a job ran/completed, some storage device is low, etc.). But when matrix came out several years ago, i really liked the concept, became a bit of a matrix fanboy, and built a little script to leverage - nowadays, all of - my server notifications. Again, pretty basic/not sophisticated, but it scratches my itches.",
+            "author": "mxuribe",
+            "id_": 35730606
+        },
+        "summary": "mxuribe built a command line application to send messages into a Matrix room to be used as a server notification system."
     }
 ]
