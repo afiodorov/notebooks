@@ -4782,5 +4782,21 @@
             "id_": 35730606
         },
         "summary": "mxuribe built a command line application to send messages into a Matrix room to be used as a server notification system."
+    },
+    {
+        "c": {
+            "comment": "It's not that really interesting but it's something I use daily. I've written a sqlite3 based time tracking tool. I highly inspired by timewarrior, but I wasn't satisfied with it.https://github.com/dgsb/tt",
+            "author": "dgsb",
+            "id_": 35787780
+        },
+        "summary": "The author has created a SQLite3-based time tracking tool, inspired by Timewarrior, as an alternative to it."
+    },
+    {
+        "c": {
+            "comment": "Built a solution to a problem I have always had. I like my system to be clean, minimal and structured. It gets quite tricky to manage multiple projects on my on machine, projects tend to gather and are placed everywhere. Overtime managing system wide dependencies becomes a problem. It is quite easy to mess up a system setting or to keep track of a package I wont need tomorrow. This is why I built freshenv. It is a command line application which helps developers in running and managing completely isolated developer environments locally. It fetches and lets you run environment flavours in the form of docker containers which are preconfigured with tools and packages developer needs everyday.I use it everyday and some others as well. Which makes me happy :)",
+            "author": "RaiyanYahya",
+            "id_": 35785764
+        },
+        "summary": "RaiyanYahya built a command line application called freshenv to help developers manage completely isolated developer environments locally and run environment flavours in the form of docker containers."
     }
 ]
