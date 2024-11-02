@@ -1,0 +1,7 @@
+jupyter
+notebook
+black[jupyter]
+isort
+polars
+requests
+tabulate
